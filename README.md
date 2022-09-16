@@ -8,3 +8,7 @@ I am following the curriculum of [The Odin Project](https://www.theodinproject.c
 - CSS
 - Sass
 - JavaScript
+
+---
+
+Since you're here, why don't you try my [Rock-Paper-Scissors](https://cedvid.github.io/rockpaperscissors/) game? :video_game:
