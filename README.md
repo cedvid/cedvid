@@ -1,13 +1,14 @@
 ## Hi, I’m Cédric :wave:	
-I am a self-taught frontend web developer based in Prague
+I am an aspiring developer based in Prague
 
-I am following the curriculum of [The Odin Project](https://www.theodinproject.com/) as well as [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp), although I am using various other sources daily
+I am following the curriculum of [The Odin Project](https://www.theodinproject.com/) as well as [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp). I also attended the 42 Prague "piscine" (intensive bootcamp focused on C language) in Oct 2022.
 
 ## Skills
+- JavaScript
+- C (basic knowledge)
 - HTML
 - CSS
 - Sass
-- JavaScript
 
 ---
 
