@@ -1,7 +1,9 @@
 ## Hi, I’m Cédric :wave:	
 I am an aspiring developer based in Prague
 
-I am following the curriculum of [The Odin Project](https://www.theodinproject.com/) as well as [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp). I also attended the 42 Prague "piscine" (intensive bootcamp focused on C language) in Oct 2022.
+I am following the curriculum of [The Odin Project](https://www.theodinproject.com/) and [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+I also attended the 42 Prague "piscine" (intensive bootcamp focused on C language) in Oct 2022.
 
 ## Skills
 - JavaScript
