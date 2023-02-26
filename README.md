@@ -1,4 +1,4 @@
-## Hi, I’m Cédric :wave:	
+## Hey, I’m Cédric
 I am studying software development at [42 Prague](https://www.42prague.com/).
 
 > 42 is a private institution of higher education in computer science school. Students are trained through peer-to-peer pedagogy, and project-based learning.
